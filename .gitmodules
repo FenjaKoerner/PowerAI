@@ -1,0 +1,3 @@
+[submodule "PowerAIDataHandler"]
+	path = PowerAIDataHandler
+	url = https://github.com/OlafKoerner/PowerAIDataHandler.git
